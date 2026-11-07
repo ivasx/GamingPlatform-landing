@@ -17,3 +17,9 @@ a {
 img {
     max-width: 100%;
 }
+
+.btn {
+    background-color: #FA9021;
+    max-width: 100px;
+    text-align: center;
+}
